@@ -132,9 +132,9 @@
       "active": true,
       "dialog": false,
       "endpoints": [
-        "https://lencx.github.io/ChatGPT/install.json"
+        "https://mxdlzg.github.io/ChatGPT/install.json"
       ],
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEIxMjY4OUI5MTVFNjBEMDUKUldRRkRlWVZ1WWttc1NGWEE0RFNSb0RqdnhsekRJZTkwK2hVLzhBZTZnaHExSEZ1ZEdzWkpXTHkK"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5Vmx6ZEdpQkVsTGROWSs2MllpcS9UTlQ4bDFYbnNKWkVCZTZ0SnBESDdtb0FBQkFBQUFBQUFBQUFBQUlBQUFBQUNuTHBjeGM0MWIzK0VyZTFScVhlcnBYVFFNYUg4Y0lnckpyVFZEMDBSNFBNNlRCNW8xV2FRSURXNEhHaG8xR09lZU5iVVBPMlpTQ2hJV1M4RUR0RXpWeXM4SWRTSkhGYjRYVnJaMTFuSG9CSGtJSzE1RlFyTHA2N1luVzdMK1NjUk0zTzV4MUNiUGM9Cg"
     }
   }
 }
