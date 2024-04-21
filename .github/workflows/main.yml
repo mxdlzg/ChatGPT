@@ -33,7 +33,7 @@ jobs:
       - run: pnpm install --frozen-lockfile
 
       - name: 'Setup Rust'
-        uses: dtolnay/rust-toolchain@stable
+        uses: dtolnay/rust-toolchain@1.76
         with:
           targets: ${{ matrix.target }}
       - uses: Swatinem/rust-cache@v2
